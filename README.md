@@ -1,2 +1,2 @@
-# Entrega-TP-CV
+TP-CV
 Trabajo practico
